@@ -1,0 +1,19 @@
+se crea archivi f
+						
+# Por favor ingresa el mensaje del commit para tus cambios. Las
+#  líneas que comiencen con '#' serán ignoradas, y un mensaje
+#  vacío aborta el commit.
+#
+# En la rama master
+#
+# Confirmación inicial
+#
+# Cambios a ser confirmados:
+#	nuevos archivos: f.txt
+#
+# Archivos sin seguimiento:
+#	carpeta/
+#	index.html
+#	mercadoAbierto/
+#	t.xtx
+#
